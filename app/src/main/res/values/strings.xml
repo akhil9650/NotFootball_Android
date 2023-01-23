@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotFootball</string>
+    <string name="screen_title_home">Home</string>
+    <string name="screen_title_settings">Matches</string>
+    <string name="screen_title_matches">Matches</string>
+    <string name="screen_title_leagues">Leagues</string>
+</resources>
